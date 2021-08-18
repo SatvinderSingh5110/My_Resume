@@ -1,121 +1,133 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Satvinder Singh",
+    
+    "occupation": "Fresh Graduate College Student ",
+    
+    "description": "",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! My name is Satvinder Singh. I am based at Batu Caves and my nationality is a Malaysian citizen. I am 20 years old currently and I am a fresh graduate from INTI International College located at Kuala Lumpur in Diploma of Information Technology. I have 3 months of working experience (internship) in software technical support.",
+    "contactmessage": "Get in touch with me",
+    "email": "satvinder010911@gmail.com",
+    "phone": "+60 1136940535",
+    "language" : "English , Malay  - Excellent communication in both spoken and written",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "A-26-02 Ecosky Condominium",
+      "zip": "68100",
+      "city": "Batu Caves",
+      "state": "Selangor"
+      
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    
+    "resumedownload": "https://www.scribd.com/document/520504791/My-Resume",
     "social": [
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "url": "https://www.youtube.com/channel/UCg7LSNmsM83hZVF52fsnHlA",
         "className": "fa fa-youtube"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/vishnu.lal.3576224/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/satvinder-singh-74b51a143/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/durian_king3.0/",
         "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "https://github.com/PapaReact",
-        "className": "fa fa-github"
       }
+      
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "My Skills Set Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "INTI College Kuala Lumpur - KL",
+        "degree": "Diploma In Information Technology",
+        "graduated": "April 2019 - March 2021",
+        "description": "Graduated under Dean's Honors Roll for Diploma In Information Technology"
+      },
+
+      {
+        "school": "SMK Dato Ibrahim Yaacob",
+        "degree": "Sijil Pelajaran Malaysia (SPM)",
+        "graduated": "January 2014 - November 2018",
+        "description": "Graduated And OBTAIN 7A 2B IN SIJIL PELAJARAN MALAYSIA (SPM)"
       }
+      
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Acestar Sdn Bhd",
+        "title": "Software Technical Support",
+        "years": "Jan 2021 - March 2021",
+        "description": "Follow up with clients to ensure their IT systems are fully functional after troubleshooting , Talk to staff or clients through a series of actions either face-to-face or over the phone to help set up systems or resolve issues, Prepare accurate and timely reports and document technical knowledge in the form of notes and manuals "
+                       
       }
     ],
+  
+
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "Web Development(HTML&CSS)",
         "level": "100%"
       },
+     
       {
-        "name": "Python",
-        "level": "85%"
+        "name": "Troubleshoot Computer",
+        "level": "80%"
       },
+
       {
-        "name": "Git",
-        "level": "70%"
+        "name": "Format Computer",
+        "level": "90%"
       },
+
       {
-        "name": "JavaScript",
-        "level": "99%"
+        "name":"Advanced Proficiency in Microsoft Office( Word, Excel, Powerpoint)",
+        "level": "80%"
       },
+
       {
-        "name": "Web Development",
-        "level": "95%"
+        "name": "Social Media Marketing",
+        "level": "90%"
       }
     ]
   },
-  "portfolio": {
+  
+
+    "portfolio": {
     "projects": [
+      
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Uber Clone (React Native)",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "uber.jpg"
+        
       },
+
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Airbnb Clone (React Js, Tailwind CSS, NextJS, MapBox  )",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
-      },
-      {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "airbnb.PNG"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Satvinder is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend him in your projects.",
+        "user": "Vishnu"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Learning with Satvinder has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam"
       }
     ]
   }

@@ -3,6 +3,7 @@ import React from "react";
 const Resume = ({ data }) => {
   if (data) {
     var skillmessage = data.skillmessage;
+    
     var education = data.education.map(function (education) {
       return (
         <div key={education.school}>
@@ -36,6 +37,8 @@ const Resume = ({ data }) => {
         </li>
       );
     });
+
+    
   }
 
   return (
@@ -43,7 +46,7 @@ const Resume = ({ data }) => {
       <div className="row education">
         <div className="three columns header-col">
           <h1>
-            <span>Education</span>
+            <span>My Education</span>
           </h1>
         </div>
 
@@ -57,7 +60,7 @@ const Resume = ({ data }) => {
       <div className="row work">
         <div className="three columns header-col">
           <h1>
-            <span>Work</span>
+            <span>Work Experience</span>
           </h1>
         </div>
 
@@ -67,7 +70,7 @@ const Resume = ({ data }) => {
       <div className="row skill">
         <div className="three columns header-col">
           <h1>
-            <span>Skills</span>
+            <span>My Skills</span>
           </h1>
         </div>
 
@@ -79,6 +82,8 @@ const Resume = ({ data }) => {
           </div>
         </div>
       </div>
+
+     
     </section>
   );
 };

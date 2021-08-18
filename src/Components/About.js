@@ -21,11 +21,11 @@ const About = ({ data }) => {
           <img
             className="profile-pic"
             src={profilepic}
-            alt="Sonny's Profile Pic"
+            alt="Satvinder's Profile Pic"
           />
         </div>
         <div className="nine columns main-col">
-          <h2>About Me</h2>
+          <h2>About Me😁</h2>
 
           <p>{bio}</p>
           <div className="row">
@@ -37,7 +37,7 @@ const About = ({ data }) => {
                 <span>
                   {street}
                   <br />
-                  {city} {state}, {zip}
+                  {zip} {city}, {state}
                 </span>
                 <br />
                 <span>{phone}</span>
